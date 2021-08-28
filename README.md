@@ -23,10 +23,9 @@
   <a href="https://github.com/starkworld/Campus-Recruitment-System"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Campus-Recruitment-System&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Campus-Recruitment-System"></a>
   <a href="https://github.com/starkworld/Discovering-Anamolies-and-Errors-in-GEDCOM"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Discovering-Anamolies-and-Errors-in-GEDCOM&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Gedcom File Parser"></a> 
   <a href="https://github.com/starkworld/Future-Sales-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Future-Sales-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Future Sales Prediction"></a>
-  <!--
-  <a href="https://github.com/abhigyan2311/dog-breed-classifier"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=dog-breed-classifier&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Dog Breed Classifier"></a>
-  <a href="https://github.com/abhigyan2311/helloMark"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=helloMark&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Hello Mark"></a>
-</p> -->
+  <a href="https://github.com/starkworld/Stock-Analyzer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Stock-Analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Stock Analyzer"></a>
+  <a href="https://github.com/starkworld/Reddit-Stock-Trends"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Reddit-Stock-Trends&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Reddit Stock Trends"></a>
+</p>
 
 ## 📊 Github Stats
 <br>
