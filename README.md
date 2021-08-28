@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://twitter.com/NikhilK48448910"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/nikhilkalyan/"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/Uvu6oiS.png"/></a>
+  <a href="https://www.linkedin.com/in/nikhilkalyan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/Uvu6oiS.png"/></a>
 </p>
 
 
